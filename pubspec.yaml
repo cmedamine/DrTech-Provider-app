@@ -1,0 +1,71 @@
+name: dr_tech
+description: A new Flutter project. 
+publish_to: 'none' 
+version: 0.0.18+18
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_local_notifications: ^9.1.4
+  flutter_cupertino_localizations:
+  shared_preferences:
+  cached_network_image:
+  http:
+  intl:
+  flutter_icons:
+  flutter_svg: ^1.0.3
+  flutter_sim_country_code:
+  keyboard_visibility:
+  vibration:
+  webview_flutter:
+  flutter_webview_plugin:
+  url_launcher:
+  firebase_core:
+  firebase_messaging: ^10.0.7
+  firebase_analytics: ^9.0.5
+  firebase_crashlytics:
+  assets_audio_player:
+    git:
+      url: https://github.com/luis901101/Flutter-AssetsAudioPlayer.git
+      ref: master
+  share:
+  # Pickers
+  image_picker: ^0.8.5
+  file_picker:
+  firebase_auth: ^3.0.2
+  package_info_plus: ^1.0.6
+  cupertino_icons:
+  number_to_word_arabic: ^0.0.8
+
+#dependency_overrides:
+#  firebase_messaging_platform_interface: 3.1.6
+#  firebase_auth_platform_interface: 6.1.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter 
+flutter: 
+  uses-material-design: true 
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/illustration/
+    - assets/sounds/
+  fonts: 
+  - family: Cario
+    fonts:
+      - asset: assets/fonts/Cairo-ExtraLight.ttf
+        weight: 100
+      - asset: assets/fonts/Cairo-Light.ttf
+        weight: 200
+      - asset: assets/fonts/Cairo-Regular.ttf
+        weight: 300
+      - asset: assets/fonts/Cairo-Black.ttf
+        weight: 400
+      - asset: assets/fonts/Cairo-SemiBold.ttf
+        weight: 500
+      - asset: assets/fonts/Cairo-Bold.ttf
+        weight: 600

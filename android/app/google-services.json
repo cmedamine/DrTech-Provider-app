@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "499525300846",
+    "firebase_url": "https://doctortec-7603c.firebaseio.com",
+    "project_id": "doctortec-7603c",
+    "storage_bucket": "doctortec-7603c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499525300846:android:394676aa21e3d7b3",
+        "android_client_info": {
+          "package_name": "app.android.doctortecapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499525300846-lvtfejdej9us3t2k5l3o1qfr4a5rutj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.android.doctortecapp.com",
+            "certificate_hash": "c85ee404beb69199e425d29f3f16449c4b4a7b5c"
+          }
+        },
+        {
+          "client_id": "499525300846-vo9f8kra1lo8b5rat1ar97p96o6893am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4eJM9WFOc_xITCWRTfw9ekWlhT6aw2ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499525300846-vo9f8kra1lo8b5rat1ar97p96o6893am.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499525300846-0bhb67lkmmha6u8tt1u129g61djqfnjg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mitdone.projects.doctortec",
+                "app_store_id": "1451445517"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499525300846:android:406f66d05cb6b087d36c7f",
+        "android_client_info": {
+          "package_name": "app.android.doctortecapp.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499525300846-96gjtpsuk3p4ar5ctsuas41rqam4svli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.android.doctortecapp.provider",
+            "certificate_hash": "c85ee404beb69199e425d29f3f16449c4b4a7b5c"
+          }
+        },
+        {
+          "client_id": "499525300846-vo9f8kra1lo8b5rat1ar97p96o6893am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4eJM9WFOc_xITCWRTfw9ekWlhT6aw2ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499525300846-vo9f8kra1lo8b5rat1ar97p96o6893am.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "499525300846-0bhb67lkmmha6u8tt1u129g61djqfnjg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mitdone.projects.doctortec",
+                "app_store_id": "1451445517"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
